@@ -1,2 +1,2 @@
 # rssyoutube
-输入youtube链接来获取youtube频道rss订阅源
+输入youtube频道链接来获取youtube频道rss订阅源
